@@ -3,7 +3,7 @@
 This data science project explores early mortality risk factors in heart failure patients using clinical records. By combining exploratory data analysis with supervised machine learning, we identify key predictors of death and evaluate the performance of classification models. The project is based on a real-world dataset and includes visualizations, statistical insights, and predictive modeling.
 
 ## Project Structure
-
+```bash
 ├── codes/
 │ └── Heart_Failure_Analysis.ipynb # Jupyter notebook with full analysis and visualizations
 ├── data/
@@ -26,7 +26,7 @@ This data science project explores early mortality risk factors in heart failure
 ├── report/
 │ └── Heart_Failure_Report.pdf # Final report (IEEE-style)
 └── README.md # Project overview and instructions
-
+```
 
 ## 📊 Dataset
 
@@ -47,7 +47,7 @@ Features include demographic info (age, sex), clinical measurements (serum creat
 
 All visualizations answering the above questions are implemented and rendered in the Jupyter Notebook:
 
-📄 **[codes/Heart_Failure_Analysis.ipynb](codes/Heart_Failure_Analysis.ipynb)**
+**[codes/Heart_Failure_Analysis.ipynb](codes/Heart_Failure_Analysis.ipynb)**
 
 This notebook includes:
 - Data cleaning and standardization
@@ -56,14 +56,14 @@ This notebook includes:
 - Classification models (Logistic Regression, Gradient Boosting)
 - Model performance metrics and feature importance
 
-## 🤖 Tools & Libraries
+## Tools & Libraries
 
 - Python 3.9+
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 📌 How to Run
+## How to Run
 
 1. Clone this repo
 2. Navigate to the project directory
@@ -71,15 +71,16 @@ This notebook includes:
 4. Open `codes/Heart_Failure_Analysis.ipynb`
 
 ```bash
-pip install -r requirements.txt
+pip install
 jupyter notebook
+```
 
-
-Report
+## Report
 The final written report following an IEEE-style structure is available at:
 
+```bash
 Heart_Failure_Report.pdf
-
+```
 It contains detailed findings, figures, discussion, and references.
 
 References
