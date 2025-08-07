@@ -28,7 +28,7 @@ This data science project explores early mortality risk factors in heart failure
 └── README.md # Project overview and instructions
 ```
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: [Kaggle - Heart Failure Clinical Records Dataset](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 - **Size**: 299 samples, 13 features
