@@ -24,8 +24,8 @@ This data science project explores early mortality risk factors in heart failure
 │ ├── Q4_Gradient_Boosting_Confusion_Matrix.png
 │ └── Q4_GradientBoosting_FeatureImportance.png
 ├── report/
-│ └── Heart_Failure_Report.pdf # Final report (IEEE-style)
-└── README.md # Project overview and instructions
+│ └── Individual_Project_Heart_Failure_Report.pdf
+└── README.md
 ```
 
 ## Dataset
@@ -36,14 +36,14 @@ This data science project explores early mortality risk factors in heart failure
 
 Features include demographic info (age, sex), clinical measurements (serum creatinine, sodium, ejection fraction), and lifestyle/comorbidities (smoking, diabetes, anaemia).
 
-## 🔍 Research Questions
+## Research Questions
 
 1. How do demographic factors like age and sex affect mortality?
 2. What impact do comorbidities and lifestyle habits have on death rates?
 3. Which lab biomarkers are most associated with early mortality?
 4. Can machine learning models predict patient survival effectively?
 
-## 📈 Visualizations & Analysis
+## Visualizations & Analysis
 
 All visualizations answering the above questions are implemented and rendered in the Jupyter Notebook:
 
