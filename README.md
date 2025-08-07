@@ -5,9 +5,9 @@ This data science project explores early mortality risk factors in heart failure
 ## Project Structure
 ```bash
 ├── codes/
-│ └── Heart_Failure_Analysis.ipynb # Jupyter notebook with full analysis and visualizations
+│ └── Heart_Failure_Analysis.ipynb
 ├── data/
-│ └── heart_failure_clinical_records_dataset.csv # Raw dataset from Kaggle
+│ └── heart_failure_clinical_records_dataset.csv
 ├── figures/ # Generated graphs and plots
 │ ├── Q1_Age_vs_DeathEvent.png
 │ ├── Q1_Sex_vs_DeathEvent.png
